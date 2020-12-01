@@ -1,0 +1,12 @@
+body {
+    background-image: url(../../Portfolio_upgrade/assets/pexels-lorenzo-242236.jpg);
+
+};
+a{
+    font-size: 30px;
+};
+
+.aboutMeRow{
+    display:flex;
+    align-items: center ;
+}

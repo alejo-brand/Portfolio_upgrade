@@ -10,3 +10,8 @@ a{
     display:flex;
     align-items: center ;
 }
+.aboutImage{
+    height:100%;
+    width:auto;
+    margin: 0 auto;
+}
